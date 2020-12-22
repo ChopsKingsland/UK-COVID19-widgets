@@ -1,5 +1,5 @@
 # COVID-19 data widgets
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ChopsKingsland/UK-COVID19-widgets)   ![Twitter Follow](https://img.shields.io/twitter/follow/ChopsKingsland)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ChopsKingsland/UK-COVID19-widgets)   [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ChopsKingsland">](https://twitter.com/intent/follow?screen_name=ChopsKingsland)
 
 COVID-19 data for the UK to display on your iOS 14 homescreen
 
