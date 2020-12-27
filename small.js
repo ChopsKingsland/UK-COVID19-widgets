@@ -15,7 +15,7 @@ let json = await req.loadJSON()
 // let imgReq = new Request('https://i.imgur.com/WYmGnnH.jpg')
 // let img = await imgReq.loadImage()
 
-let date = new Date(json['lastUpdatedAtSource'])
+let date = new Date(json['lastUpdatedAtApify'])
 let todayCases = json['dailyConfirmed'].toString()
 let todayDeaths = json['dailyDeceasedWithin28Days'].toString()
 
